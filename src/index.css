@@ -1,6 +1,11 @@
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  margin: auto;
-  max-width: 38rem;
-  padding: 2rem;
+#homePage {
+  color: red;
+}
+
+#menuPage{
+  width: 50vw;
+  height: 50vw;
+  background-color: lightblue;
+  border-radius: 30px;
+  text-align: center;
 }
