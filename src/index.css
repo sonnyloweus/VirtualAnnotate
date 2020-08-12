@@ -2,6 +2,10 @@
   color: red;
 }
 
+#homePageTitle {
+  text-align: center;
+}
+
 #menuPage{
   width: 50vw;
   height: 50vw;
