@@ -13,12 +13,3 @@
   border-radius: 30px;
   text-align: center;
 }
-
-#blueTitle{
-  top: 200;
-  left: 200;
-  position: absolute;
-  z-index: 5;
-  visibility: show;
-}
-
