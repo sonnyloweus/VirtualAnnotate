@@ -1,5 +1,7 @@
 #topRed {
-  color: red;
+  color: black;
+  background-color: palevioletred;
+  font-size: 18px;
 }
 
 #homePageTitle {
@@ -12,4 +14,11 @@
   background-color: lightblue;
   border-radius: 30px;
   text-align: center;
+}
+
+#blueTitle{
+  position: absolute;
+  left: 25px;
+  top: 70px;
+  font-size: 15px;
 }
