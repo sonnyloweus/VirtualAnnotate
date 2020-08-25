@@ -19,14 +19,6 @@ body{
   margin-top: 15px;
 }
 
-#menuPage{
-  width: 50vw;
-  height: 50vw;
-  background-color: lightblue;
-  border-radius: 30px;
-  text-align: center;
-}
-
 .mainBody{
   position: absolute;
   top: 53%;
