@@ -1,9 +1,22 @@
-#homePage {
-  color: red;
+body{
+  font-family: Comfortaa;
+  margin: auto;
+}
+
+.header{
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  background-color: #e06666ff;
+  color: white;
+  height: calc(2rem + 30px);
+  margin: 0;
 }
 
 #homePageTitle {
   text-align: center;
+  font-size: 2rem;
+  margin-top: 15px;
 }
 
 #menuPage{
@@ -12,4 +25,33 @@
   background-color: lightblue;
   border-radius: 30px;
   text-align: center;
+}
+
+.mainBody{
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -47%);
+  width: 90vw;
+  height: 80vh;
+  background-color: lightblue;
+  border-radius: 50px;
+}
+
+#menuOpener{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  border: none;
+  color: white;
+  background-color: none;
+  font-size: 2rem;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+  text-align: center;
+}
+
+#menuOpener:hover{
+  transition: 0.2s;
+  background-color: #e03e3e;
 }
