@@ -1,7 +1,6 @@
-let button = document.getElementById("addReading");
-let homePage = document.getElementById("homePage");
+let addReadingButton = document.getElementById("addReadingButton");
+let bookList = document.getElementById("bookList");
 
-let toggle = -1;
-button.onclick = function(){
-    
+addReadingButton.onclick = function(){
+    bookList.innerHTML += "<p>bobby</p>";
 }

@@ -82,5 +82,15 @@ body{
   color: white;
 }
 
+#bookList{
+  margin-top: 10vh;
+  height: 50vh;
+  overflow-y: scroll;
+}
+
+#bookList p{
+  color: yellow;
+}
+
 
 
